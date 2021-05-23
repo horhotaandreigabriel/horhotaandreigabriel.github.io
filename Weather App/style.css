@@ -1,0 +1,29 @@
+:root{
+    font-size: 16px;
+}
+
+body{
+    margin: 10rem 10rem 0rem 10rem;
+    background-color: #042458;
+    color: #fff;
+}
+
+.city-weather{
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.city-weather .city{
+    text-transform: uppercase;
+}
+
+.city-weather .weather-type{
+    text-transform: capitalize;
+    margin-bottom: 2.5rem;
+}
+
+footer img{
+    width: 7.5rem;
+    height: 7.5rem;
+    margin-top: 7.5rem;
+}
