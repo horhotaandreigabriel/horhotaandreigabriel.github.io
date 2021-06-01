@@ -173,6 +173,10 @@ header{
             color: black;
         }
 
+        .navigation .cv{
+            color: #ed5759;
+        }
+
         .navigation > a:last-child{
             margin-right: 0;
         }
